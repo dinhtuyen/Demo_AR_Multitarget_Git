@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Muscular" size="50.000000 47.347481" />
+    <ImageTarget name="Nervous" size="50.000000 70.866142" />
+    <ImageTarget name="Skeletal" size="50.000000 49.685535" />
+    <ImageTarget name="Digestive" size="50.000000 32.650604" />
+    <ImageTarget name="Endocrine" size="50.000000 35.125000" />
+    <ImageTarget name="Lymphatic" size="50.000000 37.882652" />
+    <ImageTarget name="Cardiovascular" size="50.000000 48.371334" />
+  </Tracking>
+</QCARConfig>

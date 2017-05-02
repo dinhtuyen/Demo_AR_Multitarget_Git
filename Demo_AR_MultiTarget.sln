@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_AR_MultiTarget", "Demo_AR_MultiTarget.csproj", "{D4004DF9-02EA-6AB3-CDC6-300EE5E96EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_AR_MultiTarget.Editor", "Demo_AR_MultiTarget.Editor.csproj", "{42A2030B-D60B-4C66-86A0-CF7D534E56D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4004DF9-02EA-6AB3-CDC6-300EE5E96EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4004DF9-02EA-6AB3-CDC6-300EE5E96EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4004DF9-02EA-6AB3-CDC6-300EE5E96EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4004DF9-02EA-6AB3-CDC6-300EE5E96EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A2030B-D60B-4C66-86A0-CF7D534E56D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A2030B-D60B-4C66-86A0-CF7D534E56D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A2030B-D60B-4C66-86A0-CF7D534E56D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A2030B-D60B-4C66-86A0-CF7D534E56D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
